@@ -11,12 +11,12 @@ Microsoft has decided to create a new movie studio, but the problem is they donâ
 
 ## Our Findings
 
-### A significant amount of the revenue earned from the top 100 grossing movies of 2019 came from international box office. 
+### Most of the highest grossing films get anywhere between 40% - 100% of their revenue from international box office. 
 <p align="center">
   <img width="800" height="500" src="https://github.com/JelaniThomas/FinalProjectPhase1/blob/9acf244b50b5fd590903d01030e5f6fb0f6d9eb5/Photos/Density%20Plot.png">
 </p>
 
-## Most of the highest grossing films are also a part of a franchise or a remake (selling nostalgia).
+### Most of the highest grossing films are also a part of a franchise or a remake (selling nostalgia).
 
 <p align="center">
   <img width="600" height="600" src="https://github.com/JelaniThomas/FinalProjectPhase1/blob/9acf244b50b5fd590903d01030e5f6fb0f6d9eb5/Photos/WDI%20Fran%20vs%20Non%20Fran.png">
