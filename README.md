@@ -11,12 +11,26 @@ Microsoft sees all the big companies creating original video content, and they w
 
 ## What movies have the highest foreign percentage and the highest foreign gross numbers?
 
-
+<p align="center">
+  <img width="800" height="500" src="https://github.com/JelaniThomas/FinalProjectPhase1/blob/9acf244b50b5fd590903d01030e5f6fb0f6d9eb5/Photos/Density%20Plot.png">
+</p>
 
 ## How many of the top grossing movies are a part of a franchise, sequel or nostalgia?
 
+<p align="center">
+  <img width="600" height="600" src="https://github.com/JelaniThomas/FinalProjectPhase1/blob/9acf244b50b5fd590903d01030e5f6fb0f6d9eb5/Photos/WDI%20Fran%20vs%20Non%20Fran.png">
+</p>
+
+
+<p align="center">
+  <img width="600" height="600" src="https://github.com/JelaniThomas/FinalProjectPhase1/blob/9acf244b50b5fd590903d01030e5f6fb0f6d9eb5/Photos/Fran%20vs%20Non%20Fran.png">
+</p>
 
 
 
 ## What are the highest grossing MPAA ratings?
 
+
+<p align="center">
+  <img width="800" height="500" src="https://github.com/JelaniThomas/FinalProjectPhase1/blob/9acf244b50b5fd590903d01030e5f6fb0f6d9eb5/Photos/MPAA%20Rating.png">
+</p>
