@@ -22,16 +22,18 @@ Microsoft has decided to create a new movie studio, but the problem is they donâ
   <img width="600" height="600" src="https://github.com/JelaniThomas/FinalProjectPhase1/blob/9acf244b50b5fd590903d01030e5f6fb0f6d9eb5/Photos/WDI%20Fran%20vs%20Non%20Fran.png">
 </p>
 
+### With international being so significant in the success of a film, if MicroFilms were to start a film that wasn't already a part of an established franchise or a remake, it would still be a good use of resourses. Films that were not a part of a franchise had over 70% of it's revenue come from international box office. 
 
 <p align="center">
   <img width="600" height="600" src="https://github.com/JelaniThomas/FinalProjectPhase1/blob/9acf244b50b5fd590903d01030e5f6fb0f6d9eb5/Photos/Fran%20vs%20Non%20Fran.png">
 </p>
 
-
-
-## What are the highest grossing MPAA ratings?
-
+### G Rated movies performed by far the best in terms of the highest grossing films on average across the board. 
 
 <p align="center">
   <img width="800" height="500" src="https://github.com/JelaniThomas/FinalProjectPhase1/blob/9acf244b50b5fd590903d01030e5f6fb0f6d9eb5/Photos/MPAA%20Rating.png">
 </p>
+
+## Ket Takeaways 
+
+## Next Steps
