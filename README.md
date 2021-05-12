@@ -34,6 +34,6 @@ Microsoft has decided to create a new movie studio, but the problem is they donâ
   <img width="800" height="500" src="https://github.com/JelaniThomas/FinalProjectPhase1/blob/9acf244b50b5fd590903d01030e5f6fb0f6d9eb5/Photos/MPAA%20Rating.png">
 </p>
 
-## Ket Takeaways 
+## Key Takeaways 
 
 ## Next Steps
