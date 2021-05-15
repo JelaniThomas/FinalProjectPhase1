@@ -7,7 +7,7 @@
 #### Author: Jelani Thomas
 
 # Business Problem
-Microsoft has decided to create a new movie studio, but the problem is they don’t know anything about creating movies. My team has been hired to help them better understand the movie industry. Due to COVID, we decided to utilize the pre-COVID Top 100 highest grossing box office numbers of 2019 for our analysis. With this, we'll be able to demonstrate where Microsoft should invest their resources for starting MicroFilms.  
+Microsoft has decided to create a new movie studio, but the problem is they don’t know anything about creating movies. My team has been hired to help them better understand the movie industry. Due to COVID, we decided to utilize the pre-COVID Top 100 highest grossing box office numbers of 2019 for our analysis. With this, we'll be able to demonstrate where Microsoft should invest their resources for starting MicroMovies.  
 
 ## Our Findings
 
