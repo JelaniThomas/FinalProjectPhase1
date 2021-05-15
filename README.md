@@ -2,7 +2,7 @@
   <img width="800" height="300" src="https://github.com/JelaniThomas/FinalProjectPhase1/blob/a1b031d9caf6be04dfb78f6e6fae4be7c9354dcd/Photos/microsoft.jpeg">
 </p>
 
-# Microsoft Wants To Start MicroFilms Streaming Service Company
+# Microsoft Wants To Start Micro Movies Streaming Service Company
 
 #### Author: Jelani Thomas
 
@@ -22,7 +22,7 @@ Microsoft has decided to create a new movie studio, but the problem is they donâ
   <img width="600" height="600" src="https://github.com/JelaniThomas/FinalProjectPhase1/blob/9acf244b50b5fd590903d01030e5f6fb0f6d9eb5/Photos/WDI%20Fran%20vs%20Non%20Fran.png">
 </p>
 
-### With international being so significant in the success of a film, if MicroFilms were to start a film that wasn't already a part of an established franchise or a remake, it would still be a good use of resourses. Films that were not a part of a franchise had over 70% of it's revenue come from international box office. 
+### With international being so significant in the success of a film, if Micro Movies were to start a film that wasn't already a part of an established franchise or a remake, it would still be a good use of resourses. Films that were not a part of a franchise had over 70% of it's revenue come from international box office. 
 
 <p align="center">
   <img width="600" height="600" src="https://github.com/JelaniThomas/FinalProjectPhase1/blob/9acf244b50b5fd590903d01030e5f6fb0f6d9eb5/Photos/Fran%20vs%20Non%20Fran.png">
@@ -35,13 +35,13 @@ Microsoft has decided to create a new movie studio, but the problem is they donâ
 </p>
 
 ## Key Takeaways 
-Based on the analysis, these are the recommendations my team have for starting MicroFilms: 
+Based on the analysis, these are the recommendations my team have for starting Micro Movies: 
 1. The film script, characters, and theme need to appeal to an international audience. 
-2. MicroFilms should do some research on shows, movies or books that could be adapted into a film.
-3. In the MicroFilms search, they should prioritze films that are G rated.
+2. Micro Movies should do some research on shows, movies or books that could be adapted into a film.
+3. In the Micro Movies search, they should prioritze films that are G rated.
 
 ## Next Steps
 
-MicroFilms should do research on which international countries account for the highest percentage of international box office share. 
+Micro Movies should do research on which international countries account for the highest percentage of international box office share. 
 
 
