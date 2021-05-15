@@ -37,7 +37,7 @@ Microsoft has decided to create a new movie studio, but the problem is they donâ
 ## Key Takeaways 
 Based on the analysis, these are the recommendations my team have for starting MicroMovies: 
 1. The film script, characters, and theme need to appeal to an international audience. 
-2. Micro Movies should do some research on shows, movies or books that could be adapted into a film.
+2. MicroMovies should do some research on shows, movies or books that could be adapted into a film.
 3. In the MicroMovies search, they should prioritze films that are G rated.
 
 ## Next Steps
