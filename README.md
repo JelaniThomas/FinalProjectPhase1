@@ -35,5 +35,13 @@ Microsoft has decided to create a new movie studio, but the problem is they donâ
 </p>
 
 ## Key Takeaways 
+Based on the analysis, these are the recommendations my team have for starting MicroFilms: 
+1. The film script, characters, and theme need to appeal to an international audience. 
+2. MicroFilms should do some research on shows, movies or books that could be adapted into a film.
+3. In the MicroFilms search, they should prioritze films that are G rated.
 
 ## Next Steps
+
+MicroFilms should do research on which international countries account for the highest percentage of international box office share. 
+
+
