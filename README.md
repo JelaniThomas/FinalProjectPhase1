@@ -16,7 +16,7 @@ Due to COVID, we decided to utilize the pre-COVID [Top 100 highest grossing box 
 
 ### Most of the highest grossing films get anywhere between 40% - 100% of their revenue from international box office. 
 <p align="center">
-  <img width="800" height="500" src="https://github.com/JelaniThomas/FinalProjectPhase1/blob/9acf244b50b5fd590903d01030e5f6fb0f6d9eb5/Photos/Density%20Plot.png">
+  <img width="800" height="500" src="https://github.com/JelaniThomas/FinalProjectPhase1/blob/aeac0e3ef452f996130aa01889a0902efdadf2cd/Photos/Density%20Plot.png">
 </p>
 
 ### Most of the highest grossing films are also a part of a franchise or a remake (selling nostalgia).
