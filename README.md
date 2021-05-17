@@ -6,7 +6,7 @@
 
 #### Author: Jelani Thomas
 
-# Business Problem
+## Business Problem
 Microsoft has decided to create a new movie studio, but the problem is they don’t know anything about creating movies. My team has been hired to help them better understand the movie industry.   
 
 ## Data 
