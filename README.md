@@ -46,3 +46,5 @@ Based on the analysis, these are the recommendations my team have for starting M
 ## Next Steps
 
 MicroMovies should do research on which international countries account for the highest percentage of international box office share. 
+
+MicroMovies should analyze which genres and MPAA Ratings do the best internationally and domestically
