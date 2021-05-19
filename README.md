@@ -45,6 +45,4 @@ Based on the analysis, these are the recommendations my team have for starting M
 
 ## Next Steps
 
-Micro Movies should do research on which international countries account for the highest percentage of international box office share. 
-
-
+MicroMovies should do research on which international countries account for the highest percentage of international box office share. 
